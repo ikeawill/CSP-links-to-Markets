@@ -2,7 +2,7 @@
 
 | flag | market| local | CTE | PPE | PROD |Contentful | Analytic | Pending |live |
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-|🇦🇹 | AT-DE |3009 |  |  |  |  | local |  |  | 
+|🇦🇹 | AT-DE |3009 |  |  |  |  | local | CMS,phrase |  | 
 | 🇦🇺 | AU-EN |  <a href="http://localhost:3006/au/en/customer-service/support/" target="_blank"> 3006  </a> | <a href="https://www.cte.ikeadt.com/au/en/customer-service/support/" target="_blank"> `CTE` </a> | <a href="https://www.ppe.ikeadt.com/au/en/customer-service/support/" target="_blank"> `PPE` </a> <a href="" target="_blank">  </a>  | <a href="https://www.ikea.com/au/en/customer-service/support/" target="_blank"> `PROD`  </a> | ok |ok | | **LIVE**|
 | 🇨🇦 | CA-EN |  <a href="http://localhost:3002/nl/nl/customer-service/support/" target="_blank"> 3002 </a>  | <a href="https://www.cte.ikeadt.com/ca/en/customer-service/support/" target="_blank"> `CTE` </a> | <a href="https://www.ppe.ikeadt.com/ca/en/customer-service/support/" target="_blank"> `PPE` </a> <a href="" target="_blank">  </a> | <a href="https://www.ikea.com/ca/en/customer-service/support/" target="_blank"> `PROD`  </a> | ok | ok | | |
 | 🇨🇦 | CA-FR | | | | | pending| | |
