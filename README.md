@@ -1,6 +1,6 @@
 # CSP Markets
 
-| flag | market| Environments|Contentful | GA Dashboard |ok / Pending |live |
+|  | market| Environments|Contentful | GA Dashboard |ok / Pending |live |
 | -- | -- | -- |  -- | -- | -- | -- |
 |🇦🇹 | AT-DE | <a href="http://localhost:3009/at/de/customer-service/support/" target="_blank"> 3009 </a>   <a href="https://www.cte.ikeadt.com/at/de/customer-service/support/" target="_blank"> `CTE` </a>   <a href="https://www.ppe.ikeadt.com/at/de/customer-service/support/" target="_blank"> `PPE` </a> <a href="" target="_blank">  </a>  <a href="https://www.ikea.com/at/de/customer-service/support/" target="_blank"> `PROD`  </a> | pending | pending | CMS,phrase,veta |  |
 | 🇦🇺 | AU-EN |  <a href="http://localhost:3006/au/en/customer-service/support/" target="_blank"> 3006  </a>  <a href="https://www.cte.ikeadt.com/au/en/customer-service/support/" target="_blank"> `CTE` </a>  <a href="https://www.ppe.ikeadt.com/au/en/customer-service/support/" target="_blank"> `PPE` </a> <a href="" target="_blank">  </a>   <a href="https://www.ikea.com/au/en/customer-service/support/" target="_blank"> `PROD`  </a> | ok |ok |ok | **LIVE**|
