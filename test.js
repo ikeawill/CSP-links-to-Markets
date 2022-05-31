@@ -1,3 +1,3 @@
 console.log('test github');
 
-const fake = 'fake constant';
+const fake = 'fake constant for test';
