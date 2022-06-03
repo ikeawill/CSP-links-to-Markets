@@ -2,4 +2,4 @@ console.log('test github');
 
 const fake = 'fake constant for test';
 
-const counter = 96;
+const counter = 97;
