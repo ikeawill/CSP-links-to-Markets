@@ -25,7 +25,7 @@
 | -- | -- | -- | -- |
 | <a href="http://localhost:3000/" target="_blank"> `PROD`  </a> | N/A | <a href="https://icare.ingka.com/" target="_blank"> `ICARE`  </a> | **LIVE** |
 
-## Visibility 
+## Access and Visibility 
 
 `PROD`: public
 
